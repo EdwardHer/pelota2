@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/fig.dir/main.cpp.o  -o fig -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
